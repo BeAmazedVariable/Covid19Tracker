@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationView">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="LabelFontStyle">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TotalFontStyle">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+</resources>
